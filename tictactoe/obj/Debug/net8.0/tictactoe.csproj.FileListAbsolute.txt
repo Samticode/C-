@@ -1,0 +1,15 @@
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/bin/Debug/net8.0/tictactoe
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/bin/Debug/net8.0/tictactoe.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/bin/Debug/net8.0/tictactoe.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/bin/Debug/net8.0/tictactoe.dll
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/bin/Debug/net8.0/tictactoe.pdb
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/obj/Debug/net8.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/obj/Debug/net8.0/tictactoe.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/obj/Debug/net8.0/tictactoe.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/obj/Debug/net8.0/tictactoe.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/obj/Debug/net8.0/tictactoe.sourcelink.json
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/obj/Debug/net8.0/tictactoe.dll
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/obj/Debug/net8.0/refint/tictactoe.dll
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/obj/Debug/net8.0/tictactoe.pdb
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/obj/Debug/net8.0/tictactoe.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/tictactoe/obj/Debug/net8.0/ref/tictactoe.dll
