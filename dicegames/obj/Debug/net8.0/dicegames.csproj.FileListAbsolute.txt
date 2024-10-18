@@ -1,0 +1,14 @@
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/bin/Debug/net8.0/dicegames
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/bin/Debug/net8.0/dicegames.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/bin/Debug/net8.0/dicegames.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/bin/Debug/net8.0/dicegames.dll
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/bin/Debug/net8.0/dicegames.pdb
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/dicegames.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/dicegames.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/dicegames.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/dicegames.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/dicegames.dll
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/refint/dicegames.dll
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/dicegames.pdb
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/dicegames.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/ref/dicegames.dll

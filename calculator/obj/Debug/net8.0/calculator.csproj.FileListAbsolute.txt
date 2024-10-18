@@ -1,0 +1,14 @@
+/Users/samtiahmed/Desktop/VG3/C#/calculator/bin/Debug/net8.0/calculator
+/Users/samtiahmed/Desktop/VG3/C#/calculator/bin/Debug/net8.0/calculator.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/calculator/bin/Debug/net8.0/calculator.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/calculator/bin/Debug/net8.0/calculator.dll
+/Users/samtiahmed/Desktop/VG3/C#/calculator/bin/Debug/net8.0/calculator.pdb
+/Users/samtiahmed/Desktop/VG3/C#/calculator/obj/Debug/net8.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/calculator/obj/Debug/net8.0/calculator.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/calculator/obj/Debug/net8.0/calculator.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/calculator/obj/Debug/net8.0/calculator.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/calculator/obj/Debug/net8.0/calculator.dll
+/Users/samtiahmed/Desktop/VG3/C#/calculator/obj/Debug/net8.0/refint/calculator.dll
+/Users/samtiahmed/Desktop/VG3/C#/calculator/obj/Debug/net8.0/calculator.pdb
+/Users/samtiahmed/Desktop/VG3/C#/calculator/obj/Debug/net8.0/calculator.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/calculator/obj/Debug/net8.0/ref/calculator.dll
