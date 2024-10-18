@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgxrIZ1kzUU=",
+  "success": true,
+  "projectFilePath": "/Users/samtiahmed/Desktop/VG3/C#/sqliteC#/sqliteC#.csproj",
+  "expectedPackageFiles": [
+    "/Users/samtiahmed/.nuget/packages/microsoft.data.sqlite/8.0.10/microsoft.data.sqlite.8.0.10.nupkg.sha512",
+    "/Users/samtiahmed/.nuget/packages/microsoft.data.sqlite.core/8.0.10/microsoft.data.sqlite.core.8.0.10.nupkg.sha512",
+    "/Users/samtiahmed/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/samtiahmed/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/Users/samtiahmed/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/samtiahmed/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "/Users/samtiahmed/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
