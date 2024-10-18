@@ -1,0 +1,15 @@
+/Users/samtiahmed/Desktop/VG3/C#/guess/bin/Debug/net8.0/guess
+/Users/samtiahmed/Desktop/VG3/C#/guess/bin/Debug/net8.0/guess.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/guess/bin/Debug/net8.0/guess.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/guess/bin/Debug/net8.0/guess.dll
+/Users/samtiahmed/Desktop/VG3/C#/guess/bin/Debug/net8.0/guess.pdb
+/Users/samtiahmed/Desktop/VG3/C#/guess/obj/Debug/net8.0/guess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/guess/obj/Debug/net8.0/guess.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/guess/obj/Debug/net8.0/guess.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/guess/obj/Debug/net8.0/guess.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/guess/obj/Debug/net8.0/guess.sourcelink.json
+/Users/samtiahmed/Desktop/VG3/C#/guess/obj/Debug/net8.0/guess.dll
+/Users/samtiahmed/Desktop/VG3/C#/guess/obj/Debug/net8.0/refint/guess.dll
+/Users/samtiahmed/Desktop/VG3/C#/guess/obj/Debug/net8.0/guess.pdb
+/Users/samtiahmed/Desktop/VG3/C#/guess/obj/Debug/net8.0/guess.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/guess/obj/Debug/net8.0/ref/guess.dll
