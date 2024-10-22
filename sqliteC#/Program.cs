@@ -3,7 +3,7 @@ using Microsoft.Data.Sqlite;
 
 class Program
 {
-    public void Run(string name, int age)
+    public void Add(string name, int age)
     {
         string connectionString = "Data Source=db/database.db";
 
@@ -34,12 +34,43 @@ class Program
                             insertCommand.Parameters.AddWithValue("@age", age);
                             insertCommand.ExecuteNonQuery();
                         }
-                    } else {
+                    }
+                    else
+                    {
                         Console.WriteLine("User already exists");
                     }
                 }
 
                 sql = "SELECT * FROM users";
+                using (var command = new SqliteCommand(sql, connection))
+                {
+                    using (var reader = command.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            Console.WriteLine("Id: " + reader["id"] + " Name: " + reader["name"] + " Age: " + reader["age"]);
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
+    }
+
+    public void Show()
+    {
+        string connectionString = "Data Source=db/database.db";
+
+        using (var connection = new SqliteConnection(connectionString))
+        {
+            try
+            {
+                connection.Open();
+
+                string sql = "SELECT * FROM users";
                 using (var command = new SqliteCommand(sql, connection))
                 {
                     using (var reader = command.ExecuteReader())
@@ -78,11 +109,31 @@ class MainClass
 {
     static void Main(string[] args)
     {
-        UserInterface userInterface = new UserInterface();
-        string name = userInterface.GetName();
-        int age = userInterface.GetAge();
+        bool running = true;
 
-        Program program = new Program();
-        program.Run(name, age);
+        while (running)
+        {
+            Console.WriteLine("Enter a command: ");
+            string command = Console.ReadLine();
+
+            if (command == "exit")
+            {
+                running = false;
+            }
+            else if (command == "add")
+            {
+                UserInterface userInterface = new UserInterface();
+                string name = userInterface.GetName();
+                int age = userInterface.GetAge();
+
+                Program program = new Program();
+                program.Add(name, age);
+            }
+            else if (command == "show")
+            {
+                Program program = new Program();
+                program.Show();
+            }
+        }
     }
 }

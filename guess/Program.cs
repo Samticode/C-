@@ -5,11 +5,11 @@
         static void Main(string[] args)
         {
             Random random = new Random();
-            int randomNumber = random.Next(1, 101);
+            int randomNumber = random.Next(1, 10001);
             int guess = 0;
             int attempts = 0;
 
-            System.Console.WriteLine("Guess the number between 1 and 100");
+            System.Console.WriteLine("Guess the number between 1 and 10000");
 
             while (guess != randomNumber)
             {

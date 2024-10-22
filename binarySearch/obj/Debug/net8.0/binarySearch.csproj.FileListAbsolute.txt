@@ -1,0 +1,15 @@
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/Debug/net8.0/binarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/Debug/net8.0/binarySearch.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/Debug/net8.0/binarySearch.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/Debug/net8.0/binarySearch.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/Debug/net8.0/binarySearch.sourcelink.json
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/bin/Debug/net8.0/binarySearch
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/bin/Debug/net8.0/binarySearch.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/bin/Debug/net8.0/binarySearch.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/bin/Debug/net8.0/binarySearch.dll
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/bin/Debug/net8.0/binarySearch.pdb
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/Debug/net8.0/binarySearch.dll
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/Debug/net8.0/refint/binarySearch.dll
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/Debug/net8.0/binarySearch.pdb
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/Debug/net8.0/binarySearch.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/Debug/net8.0/ref/binarySearch.dll
