@@ -1,0 +1,15 @@
+/Users/samtiahmed/Desktop/VG3/C#/canvas/bin/Debug/net8.0/canvas
+/Users/samtiahmed/Desktop/VG3/C#/canvas/bin/Debug/net8.0/canvas.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/canvas/bin/Debug/net8.0/canvas.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/canvas/bin/Debug/net8.0/canvas.dll
+/Users/samtiahmed/Desktop/VG3/C#/canvas/bin/Debug/net8.0/canvas.pdb
+/Users/samtiahmed/Desktop/VG3/C#/canvas/obj/Debug/net8.0/canvas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/canvas/obj/Debug/net8.0/canvas.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/canvas/obj/Debug/net8.0/canvas.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/canvas/obj/Debug/net8.0/canvas.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/canvas/obj/Debug/net8.0/canvas.sourcelink.json
+/Users/samtiahmed/Desktop/VG3/C#/canvas/obj/Debug/net8.0/canvas.dll
+/Users/samtiahmed/Desktop/VG3/C#/canvas/obj/Debug/net8.0/refint/canvas.dll
+/Users/samtiahmed/Desktop/VG3/C#/canvas/obj/Debug/net8.0/canvas.pdb
+/Users/samtiahmed/Desktop/VG3/C#/canvas/obj/Debug/net8.0/canvas.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/canvas/obj/Debug/net8.0/ref/canvas.dll
