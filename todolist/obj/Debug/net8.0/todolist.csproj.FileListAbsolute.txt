@@ -1,0 +1,15 @@
+/Users/samtiahmed/Desktop/VG3/C#/todolist/bin/Debug/net8.0/todolist
+/Users/samtiahmed/Desktop/VG3/C#/todolist/bin/Debug/net8.0/todolist.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/todolist/bin/Debug/net8.0/todolist.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/todolist/bin/Debug/net8.0/todolist.dll
+/Users/samtiahmed/Desktop/VG3/C#/todolist/bin/Debug/net8.0/todolist.pdb
+/Users/samtiahmed/Desktop/VG3/C#/todolist/obj/Debug/net8.0/todolist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/todolist/obj/Debug/net8.0/todolist.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/todolist/obj/Debug/net8.0/todolist.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/todolist/obj/Debug/net8.0/todolist.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/todolist/obj/Debug/net8.0/todolist.sourcelink.json
+/Users/samtiahmed/Desktop/VG3/C#/todolist/obj/Debug/net8.0/todolist.dll
+/Users/samtiahmed/Desktop/VG3/C#/todolist/obj/Debug/net8.0/refint/todolist.dll
+/Users/samtiahmed/Desktop/VG3/C#/todolist/obj/Debug/net8.0/todolist.pdb
+/Users/samtiahmed/Desktop/VG3/C#/todolist/obj/Debug/net8.0/todolist.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/todolist/obj/Debug/net8.0/ref/todolist.dll
