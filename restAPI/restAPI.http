@@ -1,6 +1,0 @@
-@restAPI_HostAddress = http://localhost:5146
-
-GET {{restAPI_HostAddress}}/allUsers/
-Accept: application/json
-
-###
