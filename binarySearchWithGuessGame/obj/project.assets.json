@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samtiahmed/Desktop/VG3/C#/binarySearch/binarySearch.csproj",
-      "projectName": "binarySearch",
-      "projectPath": "/Users/samtiahmed/Desktop/VG3/C#/binarySearch/binarySearch.csproj",
+      "projectUniqueName": "/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/binarySearchWithGuessGame.csproj",
+      "projectName": "binarySearchWithGuessGame",
+      "projectPath": "/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/binarySearchWithGuessGame.csproj",
       "packagesPath": "/Users/samtiahmed/.nuget/packages/",
-      "outputPath": "/Users/samtiahmed/Desktop/VG3/C#/binarySearch/obj/",
+      "outputPath": "/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samtiahmed/.nuget/NuGet/NuGet.Config"

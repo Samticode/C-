@@ -1,0 +1,15 @@
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/bin/Debug/net8.0/binarySearchWithGuessGame
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/bin/Debug/net8.0/binarySearchWithGuessGame.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/bin/Debug/net8.0/binarySearchWithGuessGame.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/bin/Debug/net8.0/binarySearchWithGuessGame.dll
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/bin/Debug/net8.0/binarySearchWithGuessGame.pdb
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/Debug/net8.0/binarySearchWithGuessGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/Debug/net8.0/binarySearchWithGuessGame.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/Debug/net8.0/binarySearchWithGuessGame.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/Debug/net8.0/binarySearchWithGuessGame.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/Debug/net8.0/binarySearchWithGuessGame.sourcelink.json
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/Debug/net8.0/binarySearchWithGuessGame.dll
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/Debug/net8.0/refint/binarySearchWithGuessGame.dll
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/Debug/net8.0/binarySearchWithGuessGame.pdb
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/Debug/net8.0/binarySearchWithGuessGame.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/binarySearchWithGuessGame/obj/Debug/net8.0/ref/binarySearchWithGuessGame.dll

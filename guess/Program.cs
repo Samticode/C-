@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Random random = new Random();
-            int randomNumber = random.Next(1, 10001);
+            int randomNumber = random.Next(1, 10);
             int guess = 0;
             int attempts = 0;
 
