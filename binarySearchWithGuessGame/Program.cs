@@ -15,39 +15,60 @@ namespace BinarySearchWithGuessingGame
     {
         public void PlayGuessingGame()
         {
-            Console.WriteLine("Think of a number between 1 and 100, and I will try to guess it.");
-            Console.WriteLine("Press any key when you are ready...");
+            Random randomNum = new Random();
+            int ranran = randomNum.Next(50, 60);
+            int selectedNum = randomNum.Next(0, ranran);
+            int[] arrayyy = new int[ranran];
+
+            for (int i = 0; i < ranran; i++)
+            {
+                arrayyy[i] = i;
+            }
+
+
+            System.Console.WriteLine($"The array goes up to  {ranran}, and the number it has to get is {selectedNum}");
+            System.Console.WriteLine();
+            Console.WriteLine("Press any key when you want the program to run...");
             Console.ReadKey();
+            System.Console.WriteLine();
+            System.Console.WriteLine();
+            System.Console.WriteLine();
+
 
             int left = 1;
-            int right = 100;
+            int right = ranran;
             int attempts = 0;
             bool found = false;
+
+
 
             while (left <= right && !found)
             {
                 int middle = left + (right - left) / 2;
                 attempts++;
 
-                Console.WriteLine($"Is your number {middle}? (Enter 'h' if higher, 'l' if lower, 'c' if correct)");
-                string response = Console.ReadLine();
 
-                if (response == "c")
+                if (middle == selectedNum)
                 {
                     found = true;
-                    Console.WriteLine($"I guessed your number in {attempts} attempts!");
+                    System.Console.WriteLine($"The machine guessed {middle}, which needed {attempts} attempts!");
+                    System.Console.WriteLine();
+
                 }
-                else if (response == "h")
+                else if (middle < selectedNum)
                 {
                     left = middle + 1;
+                    System.Console.WriteLine($"The machine guessed {middle}, which is to low");
+                    System.Console.WriteLine();
                 }
-                else if (response == "l")
+                else if (middle > selectedNum)
                 {
                     right = middle - 1;
+                    System.Console.WriteLine($"The machine guessed {middle}, which is to high");
+                    System.Console.WriteLine();
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input. Please enter 'h', 'l', or 'c'.");
                 }
             }
 

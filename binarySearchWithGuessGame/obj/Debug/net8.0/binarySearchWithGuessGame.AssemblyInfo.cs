@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("binarySearchWithGuessGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c98e0f392935e01b35953e32bd8c99cee29c217")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7336e7db9a9813c10cf79b901df00a8acc87b1a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("binarySearchWithGuessGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("binarySearchWithGuessGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
