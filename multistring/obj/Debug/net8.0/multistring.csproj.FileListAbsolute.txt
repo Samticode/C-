@@ -1,0 +1,15 @@
+/Users/samtiahmed/Desktop/VG3/C#/multistring/bin/Debug/net8.0/multistring
+/Users/samtiahmed/Desktop/VG3/C#/multistring/bin/Debug/net8.0/multistring.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/multistring/bin/Debug/net8.0/multistring.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/multistring/bin/Debug/net8.0/multistring.dll
+/Users/samtiahmed/Desktop/VG3/C#/multistring/bin/Debug/net8.0/multistring.pdb
+/Users/samtiahmed/Desktop/VG3/C#/multistring/obj/Debug/net8.0/multistring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/multistring/obj/Debug/net8.0/multistring.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/multistring/obj/Debug/net8.0/multistring.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/multistring/obj/Debug/net8.0/multistring.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/multistring/obj/Debug/net8.0/multistring.sourcelink.json
+/Users/samtiahmed/Desktop/VG3/C#/multistring/obj/Debug/net8.0/multistring.dll
+/Users/samtiahmed/Desktop/VG3/C#/multistring/obj/Debug/net8.0/refint/multistring.dll
+/Users/samtiahmed/Desktop/VG3/C#/multistring/obj/Debug/net8.0/multistring.pdb
+/Users/samtiahmed/Desktop/VG3/C#/multistring/obj/Debug/net8.0/multistring.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/multistring/obj/Debug/net8.0/ref/multistring.dll
