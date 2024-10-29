@@ -1,0 +1,15 @@
+/Users/samtiahmed/Desktop/VG3/C#/object/obj/Debug/net8.0/object.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/object/obj/Debug/net8.0/object.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/object/obj/Debug/net8.0/object.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/object/obj/Debug/net8.0/object.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/object/obj/Debug/net8.0/object.sourcelink.json
+/Users/samtiahmed/Desktop/VG3/C#/object/bin/Debug/net8.0/object
+/Users/samtiahmed/Desktop/VG3/C#/object/bin/Debug/net8.0/object.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/object/bin/Debug/net8.0/object.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/object/bin/Debug/net8.0/object.dll
+/Users/samtiahmed/Desktop/VG3/C#/object/bin/Debug/net8.0/object.pdb
+/Users/samtiahmed/Desktop/VG3/C#/object/obj/Debug/net8.0/object.dll
+/Users/samtiahmed/Desktop/VG3/C#/object/obj/Debug/net8.0/refint/object.dll
+/Users/samtiahmed/Desktop/VG3/C#/object/obj/Debug/net8.0/object.pdb
+/Users/samtiahmed/Desktop/VG3/C#/object/obj/Debug/net8.0/object.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/object/obj/Debug/net8.0/ref/object.dll
