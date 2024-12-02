@@ -12,3 +12,4 @@
 /Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/dicegames.pdb
 /Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/dicegames.genruntimeconfig.cache
 /Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/ref/dicegames.dll
+/Users/samtiahmed/Desktop/VG3/C#/dicegames/obj/Debug/net8.0/dicegames.sourcelink.json

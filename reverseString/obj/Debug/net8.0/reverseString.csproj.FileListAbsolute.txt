@@ -1,0 +1,15 @@
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/bin/Debug/net8.0/reverseString
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/bin/Debug/net8.0/reverseString.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/bin/Debug/net8.0/reverseString.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/bin/Debug/net8.0/reverseString.dll
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/bin/Debug/net8.0/reverseString.pdb
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/obj/Debug/net8.0/reverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/obj/Debug/net8.0/reverseString.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/obj/Debug/net8.0/reverseString.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/obj/Debug/net8.0/reverseString.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/obj/Debug/net8.0/reverseString.sourcelink.json
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/obj/Debug/net8.0/reverseString.dll
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/obj/Debug/net8.0/refint/reverseString.dll
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/obj/Debug/net8.0/reverseString.pdb
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/obj/Debug/net8.0/reverseString.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/reverseString/obj/Debug/net8.0/ref/reverseString.dll
