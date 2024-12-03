@@ -1,0 +1,15 @@
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/obj/Debug/net8.0/mazerunner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/obj/Debug/net8.0/mazerunner.AssemblyInfoInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/obj/Debug/net8.0/mazerunner.AssemblyInfo.cs
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/obj/Debug/net8.0/mazerunner.csproj.CoreCompileInputs.cache
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/obj/Debug/net8.0/mazerunner.sourcelink.json
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/bin/Debug/net8.0/mazerunner
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/bin/Debug/net8.0/mazerunner.deps.json
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/bin/Debug/net8.0/mazerunner.runtimeconfig.json
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/bin/Debug/net8.0/mazerunner.dll
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/bin/Debug/net8.0/mazerunner.pdb
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/obj/Debug/net8.0/mazerunner.dll
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/obj/Debug/net8.0/refint/mazerunner.dll
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/obj/Debug/net8.0/mazerunner.pdb
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/obj/Debug/net8.0/mazerunner.genruntimeconfig.cache
+/Users/samtiahmed/Desktop/VG3/C#/mazerunner/obj/Debug/net8.0/ref/mazerunner.dll
