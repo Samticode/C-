@@ -9,6 +9,18 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+@if (currentCount > 5)
+{
+    <p>Increment amount is highter than 5</p>
+}
+
+<ul>
+    @foreach (var number in Enumerable.Range(1, currentCount))
+    {
+        <li>@number</li>
+    }
+</ul>
+
 @code {
     private int currentCount = 0;
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicrosoftDocs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a264deecdd6dd40a79d6683246270440189d7151")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23d6ede6cb16644d9442354e755e1c810d92da0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicrosoftDocs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicrosoftDocs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
